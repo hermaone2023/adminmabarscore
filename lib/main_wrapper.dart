@@ -14,7 +14,7 @@ class MainWrapper extends StatefulWidget {
 }
 
 class _MainWrapperState extends State<MainWrapper> {
-  // Indeks untuk menentukan halaman mana yang sedang dibukas
+  // Indeks untuk menentukan halaman mana yang sedang dibuka
   int _selectedIndex = 0;
 
   final List<Widget> _pages = [
